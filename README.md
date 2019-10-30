@@ -1,5 +1,5 @@
 # Advanced-Computer-Science
-Advanced Computer Science Project
+Advanced Computer Project
 
 Our Trello Account:
 https://trello.com/b/OcuCUrDH/software-project
